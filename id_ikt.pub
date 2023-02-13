@@ -1,2 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBhkg7oIr9vBejWUPmugIOGSvJTAqVdsjSp7FFVmr8J+ marko.stojic.brains22@gmail.com
-ssh-keygen -t ed25519 -C marko.stojic.brains22@gmail.com
